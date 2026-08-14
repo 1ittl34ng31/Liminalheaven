@@ -4,7 +4,8 @@ Official website for Liminal Heaven.
 
 ## Structure
 
-- `images/signs/` — website sign assets
+- `images/signs1&2
+- /` — website sign assets
 - `images/ui/` — interface assets
 - `images/characters/` — character artwork
 - `images/backgrounds/` — backgrounds
